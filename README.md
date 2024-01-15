@@ -1,2 +1,1 @@
-# Proyectos-C-
-Proyectos con c++
+# Proyectos de programacion
